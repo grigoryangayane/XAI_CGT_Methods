@@ -1,0 +1,256 @@
+Feature_name,r_squared
+"('Age',)",0.04209562004772138
+"('Weight',)",0.41002631932411016
+"('HtShoes',)",0.6345658318498824
+"('Ht',)",0.6382850276047463
+"('Seated',)",0.5347319454075564
+"('Arm25',)",0.001642717006947847
+"('Thigh',)",0.349519267043517
+"('Leg',)",0.6196342489007702
+"('Age', 'Weight')",0.47642412140853085
+"('Age', 'HtShoes')",0.654858716163403
+"('Age', 'Ht')",0.6561635313811137
+"('Age', 'Seated')",0.5414403636042345
+"('Age', 'Arm25')",0.04209814021673086
+"('Age', 'Thigh')",0.417237367091039
+"('Age', 'Leg')",0.6492198160464198
+"('Weight', 'HtShoes')",0.6357627424527291
+"('Weight', 'Ht')",0.6397728923760414
+"('Weight', 'Seated')",0.5481639279627746
+"('Weight', 'Arm25')",0.42199619722250914
+"('Weight', 'Thigh')",0.4850392663068458
+"('Weight', 'Leg')",0.621007353299794
+"('HtShoes', 'Ht')",0.6384806774733391
+"('HtShoes', 'Seated')",0.6352062116355495
+"('HtShoes', 'Arm25')",0.6493858039485907
+"('HtShoes', 'Thigh')",0.6349658904378717
+"('HtShoes', 'Leg')",0.6576503564000618
+"('Ht', 'Seated')",0.6390565590391408
+"('Ht', 'Arm25')",0.6531330578107782
+"('Ht', 'Thigh')",0.638320198223378
+"('Ht', 'Leg')",0.6594117429189312
+"('Seated', 'Arm25')",0.5657450527829255
+"('Seated', 'Thigh')",0.5690768227762375
+"('Seated', 'Leg')",0.6445461035669562
+"('Arm25', 'Thigh')",0.35418130433826556
+"('Arm25', 'Leg')",0.6280127368488495
+"('Thigh', 'Leg')",0.6306782867487528
+"('Age', 'Weight', 'HtShoes')",0.6548666629354072
+"('Age', 'Weight', 'Ht')",0.6561654295619249
+"('Age', 'Weight', 'Seated')",0.5648916895102868
+"('Age', 'Weight', 'Arm25')",0.5065202367868678
+"('Age', 'Weight', 'Thigh')",0.5596801068022359
+"('Age', 'Weight', 'Leg')",0.6540981108212248
+"('Age', 'HtShoes', 'Ht')",0.6562575561282634
+"('Age', 'HtShoes', 'Seated')",0.6590860834572109
+"('Age', 'HtShoes', 'Arm25')",0.6780300382116087
+"('Age', 'HtShoes', 'Thigh')",0.6575729414078357
+"('Age', 'HtShoes', 'Leg')",0.6812662246139594
+"('Age', 'Ht', 'Seated')",0.6598466686708133
+"('Age', 'Ht', 'Arm25')",0.6787461705492512
+"('Age', 'Ht', 'Thigh')",0.6576205998082294
+"('Age', 'Ht', 'Leg')",0.6814158985074574
+"('Age', 'Seated', 'Arm25')",0.5784312875965337
+"('Age', 'Seated', 'Thigh')",0.5865299748537613
+"('Age', 'Seated', 'Leg')",0.6638866267369128
+"('Age', 'Arm25', 'Thigh')",0.4174955614248037
+"('Age', 'Arm25', 'Leg')",0.6657952263441288
+"('Age', 'Thigh', 'Leg')",0.6670767399333216
+"('Weight', 'HtShoes', 'Ht')",0.6399329595141308
+"('Weight', 'HtShoes', 'Seated')",0.6363562167944687
+"('Weight', 'HtShoes', 'Arm25')",0.6498128171876318
+"('Weight', 'HtShoes', 'Thigh')",0.6360712604261378
+"('Weight', 'HtShoes', 'Leg')",0.6607653287871003
+"('Weight', 'Ht', 'Seated')",0.6404790576395488
+"('Weight', 'Ht', 'Arm25')",0.6537372367023115
+"('Weight', 'Ht', 'Thigh')",0.6397779607603882
+"('Weight', 'Ht', 'Leg')",0.6627929826906112
+"('Weight', 'Seated', 'Arm25')",0.5796986210991403
+"('Weight', 'Seated', 'Thigh')",0.5754716103691961
+"('Weight', 'Seated', 'Leg')",0.645191530920878
+"('Weight', 'Arm25', 'Thigh')",0.4874860039082404
+"('Weight', 'Arm25', 'Leg')",0.6307801864579408
+"('Weight', 'Thigh', 'Leg')",0.6312157608601265
+"('HtShoes', 'Ht', 'Seated')",0.6391606340292839
+"('HtShoes', 'Ht', 'Arm25')",0.6532855900003773
+"('HtShoes', 'Ht', 'Thigh')",0.6384899027911746
+"('HtShoes', 'Ht', 'Leg')",0.6596708679832273
+"('HtShoes', 'Seated', 'Arm25')",0.6494607920013451
+"('HtShoes', 'Seated', 'Thigh')",0.6353974360832884
+"('HtShoes', 'Seated', 'Leg')",0.6577000858726947
+"('HtShoes', 'Arm25', 'Thigh')",0.649620012733664
+"('HtShoes', 'Arm25', 'Leg')",0.6710747898523985
+"('HtShoes', 'Thigh', 'Leg')",0.658262140491729
+"('Ht', 'Seated', 'Arm25')",0.6531692436239009
+"('Ht', 'Seated', 'Thigh')",0.6390625719275014
+"('Ht', 'Seated', 'Leg')",0.6594202508975154
+"('Ht', 'Arm25', 'Thigh')",0.6540931488301545
+"('Ht', 'Arm25', 'Leg')",0.6729244088999855
+"('Ht', 'Thigh', 'Leg')",0.6596621306202928
+"('Seated', 'Arm25', 'Thigh')",0.5854372571406492
+"('Seated', 'Arm25', 'Leg')",0.6635504190431533
+"('Seated', 'Thigh', 'Leg')",0.6506318938483668
+"('Arm25', 'Thigh', 'Leg')",0.6357737200638223
+"('Age', 'Weight', 'HtShoes', 'Ht')",0.65625907448414
+"('Age', 'Weight', 'HtShoes', 'Seated')",0.6591782644741084
+"('Age', 'Weight', 'HtShoes', 'Arm25')",0.6789317611511032
+"('Age', 'Weight', 'HtShoes', 'Thigh')",0.6576732959797107
+"('Age', 'Weight', 'HtShoes', 'Leg')",0.6815603912281735
+"('Age', 'Weight', 'Ht', 'Seated')",0.6598709373401208
+"('Age', 'Weight', 'Ht', 'Arm25')",0.6794267863251877
+"('Age', 'Weight', 'Ht', 'Thigh')",0.657648331389145
+"('Age', 'Weight', 'Ht', 'Leg')",0.681771622268345
+"('Age', 'Weight', 'Seated', 'Arm25')",0.6066485822740264
+"('Age', 'Weight', 'Seated', 'Thigh')",0.6025859658220662
+"('Age', 'Weight', 'Seated', 'Leg')",0.6642001150186938
+"('Age', 'Weight', 'Arm25', 'Thigh')",0.5725874492645917
+"('Age', 'Weight', 'Arm25', 'Leg')",0.675520017346207
+"('Age', 'Weight', 'Thigh', 'Leg')",0.6701775751118852
+"('Age', 'HtShoes', 'Ht', 'Seated')",0.660311643334546
+"('Age', 'HtShoes', 'Ht', 'Arm25')",0.679037097017966
+"('Age', 'HtShoes', 'Ht', 'Thigh')",0.6580411054873025
+"('Age', 'HtShoes', 'Ht', 'Leg')",0.6815175557426456
+"('Age', 'HtShoes', 'Seated', 'Arm25')",0.6789082215420321
+"('Age', 'HtShoes', 'Seated', 'Thigh')",0.6605915995233288
+"('Age', 'HtShoes', 'Seated', 'Leg')",0.6823599682921468
+"('Age', 'HtShoes', 'Arm25', 'Thigh')",0.6782248995456583
+"('Age', 'HtShoes', 'Arm25', 'Leg')",0.7031843187892268
+"('Age', 'HtShoes', 'Thigh', 'Leg')",0.6848576938125548
+"('Age', 'Ht', 'Seated', 'Arm25')",0.6793770014803397
+"('Age', 'Ht', 'Seated', 'Thigh')",0.6603914808555158
+"('Age', 'Ht', 'Seated', 'Leg')",0.6823370631912609
+"('Age', 'Ht', 'Arm25', 'Thigh')",0.6787467677307653
+"('Age', 'Ht', 'Arm25', 'Leg')",0.7030024553416361
+"('Age', 'Ht', 'Thigh', 'Leg')",0.6842471870401599
+"('Age', 'Seated', 'Arm25', 'Thigh')",0.6066885060400086
+"('Age', 'Seated', 'Arm25', 'Leg')",0.6896069511426456
+"('Age', 'Seated', 'Thigh', 'Leg')",0.6758092586713058
+"('Age', 'Arm25', 'Thigh', 'Leg')",0.6783841590187466
+"('Weight', 'HtShoes', 'Ht', 'Seated')",0.6405609020538798
+"('Weight', 'HtShoes', 'Ht', 'Arm25')",0.6538702594213543
+"('Weight', 'HtShoes', 'Ht', 'Thigh')",0.6399331264320174
+"('Weight', 'HtShoes', 'Ht', 'Leg')",0.6629938786938794
+"('Weight', 'HtShoes', 'Seated', 'Arm25')",0.6498861801384268
+"('Weight', 'HtShoes', 'Seated', 'Thigh')",0.6364904672884131
+"('Weight', 'HtShoes', 'Seated', 'Leg')",0.660871881909273
+"('Weight', 'HtShoes', 'Arm25', 'Thigh')",0.6500739599560948
+"('Weight', 'HtShoes', 'Arm25', 'Leg')",0.6728364791566188
+"('Weight', 'HtShoes', 'Thigh', 'Leg')",0.6612054009681221
+"('Weight', 'Ht', 'Seated', 'Arm25')",0.6537732737861031
+"('Weight', 'Ht', 'Seated', 'Thigh')",0.6405137031728138
+"('Weight', 'Ht', 'Seated', 'Leg')",0.6628349656778484
+"('Weight', 'Ht', 'Arm25', 'Thigh')",0.6548033678986485
+"('Weight', 'Ht', 'Arm25', 'Leg')",0.674881772053831
+"('Weight', 'Ht', 'Thigh', 'Leg')",0.6629088662213034
+"('Weight', 'Seated', 'Arm25', 'Thigh')",0.5935313327139733
+"('Weight', 'Seated', 'Arm25', 'Leg')",0.6638040775655446
+"('Weight', 'Seated', 'Thigh', 'Leg')",0.6515976688953504
+"('Weight', 'Arm25', 'Thigh', 'Leg')",0.6372100987113039
+"('HtShoes', 'Ht', 'Seated', 'Arm25')",0.653347128029763
+"('HtShoes', 'Ht', 'Seated', 'Thigh')",0.6391796361235128
+"('HtShoes', 'Ht', 'Seated', 'Leg')",0.6596992617531958
+"('HtShoes', 'Ht', 'Arm25', 'Thigh')",0.6544754086859634
+"('HtShoes', 'Ht', 'Arm25', 'Leg')",0.673133745110122
+"('HtShoes', 'Ht', 'Thigh', 'Leg')",0.6598323963651807
+"('HtShoes', 'Seated', 'Arm25', 'Thigh')",0.6496526157094409
+"('HtShoes', 'Seated', 'Arm25', 'Leg')",0.6727061389881873
+"('HtShoes', 'Seated', 'Thigh', 'Leg')",0.658470807768626
+"('HtShoes', 'Arm25', 'Thigh', 'Leg')",0.6711525225260035
+"('Ht', 'Seated', 'Arm25', 'Thigh')",0.6540949682950495
+"('Ht', 'Seated', 'Arm25', 'Leg')",0.6742265211860656
+"('Ht', 'Seated', 'Thigh', 'Leg')",0.6597330754683015
+"('Ht', 'Arm25', 'Thigh', 'Leg')",0.6733002137146824
+"('Seated', 'Arm25', 'Thigh', 'Leg')",0.6653767420736512
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated')",0.6603440588722143
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Arm25')",0.6797398647027099
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Thigh')",0.6580844553272299
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Leg')",0.68186773273057
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Arm25')",0.6799327068367498
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Thigh')",0.6607945312663694
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Leg')",0.6825266118720328
+"('Age', 'Weight', 'HtShoes', 'Arm25', 'Thigh')",0.6792185249422678
+"('Age', 'Weight', 'HtShoes', 'Arm25', 'Leg')",0.7032783203051252
+"('Age', 'Weight', 'HtShoes', 'Thigh', 'Leg')",0.6849449502840179
+"('Age', 'Weight', 'Ht', 'Seated', 'Arm25')",0.6801454506169473
+"('Age', 'Weight', 'Ht', 'Seated', 'Thigh')",0.6604646732946193
+"('Age', 'Weight', 'Ht', 'Seated', 'Leg')",0.6825651560131099
+"('Age', 'Weight', 'Ht', 'Arm25', 'Thigh')",0.6794340435784878
+"('Age', 'Weight', 'Ht', 'Arm25', 'Leg')",0.7030701219621224
+"('Age', 'Weight', 'Ht', 'Thigh', 'Leg')",0.6843532678474212
+"('Age', 'Weight', 'Seated', 'Arm25', 'Thigh')",0.6273416720787561
+"('Age', 'Weight', 'Seated', 'Arm25', 'Leg')",0.6910092871812761
+"('Age', 'Weight', 'Seated', 'Thigh', 'Leg')",0.676087692453363
+"('Age', 'Weight', 'Arm25', 'Thigh', 'Leg')",0.685201000190967
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Arm25')",0.6798620300057145
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Thigh')",0.6611523191579274
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Leg')",0.6826002338552257
+"('Age', 'HtShoes', 'Ht', 'Arm25', 'Thigh')",0.679051572031816
+"('Age', 'HtShoes', 'Ht', 'Arm25', 'Leg')",0.7033008129589355
+"('Age', 'HtShoes', 'Ht', 'Thigh', 'Leg')",0.6848777206080818
+"('Age', 'HtShoes', 'Seated', 'Arm25', 'Thigh')",0.6789907718162813
+"('Age', 'HtShoes', 'Seated', 'Arm25', 'Leg')",0.7031891105658865
+"('Age', 'HtShoes', 'Seated', 'Thigh', 'Leg')",0.6852424307132265
+"('Age', 'HtShoes', 'Arm25', 'Thigh', 'Leg')",0.7037092199962367
+"('Age', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.679414514512231
+"('Age', 'Ht', 'Seated', 'Arm25', 'Leg')",0.7030315729055779
+"('Age', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6845029514433107
+"('Age', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.7032342400375949
+"('Age', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6948207101122468
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25')",0.653929802630453
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Thigh')",0.6406189347610821
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Leg')",0.6630681707844328
+"('Weight', 'HtShoes', 'Ht', 'Arm25', 'Thigh')",0.6551653255129034
+"('Weight', 'HtShoes', 'Ht', 'Arm25', 'Leg')",0.6750526187420174
+"('Weight', 'HtShoes', 'Ht', 'Thigh', 'Leg')",0.6630574796191947
+"('Weight', 'HtShoes', 'Seated', 'Arm25', 'Thigh')",0.6501034789194169
+"('Weight', 'HtShoes', 'Seated', 'Arm25', 'Leg')",0.6745581670248817
+"('Weight', 'HtShoes', 'Seated', 'Thigh', 'Leg')",0.6614840154238855
+"('Weight', 'HtShoes', 'Arm25', 'Thigh', 'Leg')",0.6729423223140294
+"('Weight', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6548065550597839
+"('Weight', 'Ht', 'Seated', 'Arm25', 'Leg')",0.6762788485742255
+"('Weight', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6630174686042944
+"('Weight', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.6753579644849153
+"('Weight', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6657775828342065
+"('HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6544756741594426
+"('HtShoes', 'Ht', 'Seated', 'Arm25', 'Leg')",0.674627841959855
+"('HtShoes', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6599238998968484
+"('HtShoes', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.6736660664119737
+"('HtShoes', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6727061635921682
+"('Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6743336545125922
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25')",0.6806766612307258
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Thigh')",0.661264291416815
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Leg')",0.6828092430614463
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Arm25', 'Thigh')",0.679798884722338
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Arm25', 'Leg')",0.7033755860282402
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Thigh', 'Leg')",0.6849547760622654
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Arm25', 'Thigh')",0.6800746630844674
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Arm25', 'Leg')",0.7032799930240274
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Thigh', 'Leg')",0.68529612814849
+"('Age', 'Weight', 'HtShoes', 'Arm25', 'Thigh', 'Leg')",0.7038486383597646
+"('Age', 'Weight', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6801531145475712
+"('Age', 'Weight', 'Ht', 'Seated', 'Arm25', 'Leg')",0.7030921564774413
+"('Age', 'Weight', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6845830727822679
+"('Age', 'Weight', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.7033373362383231
+"('Age', 'Weight', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6960145168473963
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6798631423124015
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Leg')",0.7033057302924374
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6852516570820784
+"('Age', 'HtShoes', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.7037197886372575
+"('Age', 'HtShoes', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.7037517217953552
+"('Age', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.7033189517516134
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6551653266249087
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Leg')",0.676631598414831
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6631895474732719
+"('Weight', 'HtShoes', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.6756892906190777
+"('Weight', 'HtShoes', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6745602715470648
+"('Weight', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6764366804480926
+"('HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6748335774220445
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh')",0.6806844705868402
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Leg')",0.7033775837859162
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Thigh', 'Leg')",0.6853002383373465
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Arm25', 'Thigh', 'Leg')",0.703851226453051
+"('Age', 'Weight', 'HtShoes', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.703880169855106
+"('Age', 'Weight', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.7034112617792436
+"('Age', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.7037597729951062
+"('Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.6768984074396205
+"('Age', 'Weight', 'HtShoes', 'Ht', 'Seated', 'Arm25', 'Thigh', 'Leg')",0.7038818782526602
