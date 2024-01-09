@@ -1,0 +1,512 @@
+"combination","R_squared"
+"age",0.0682620841074623
+"workclass",0.0249026896793416
+"education",0.123683263075408
+"marital_status",0.207880416845038
+"occupation18",0.00404307712883256
+"race",0.00764655530078484
+"sex",0.04557843791618
+"hours_per_week",0.0478017770667696
+"native_country",0.0191414095464587
+"age, workclass",0.0828491738000318
+"age, education",0.181934571339844
+"age, marital_status",0.226070736908065
+"age, occupation18",0.0725947900231787
+"age, race",0.0742264368036886
+"age, sex",0.107890526860942
+"age, hours_per_week",0.11359899618637
+"age, native_country",0.0875691863969055
+"workclass, education",0.136154937196617
+"workclass, marital_status",0.224021216752934
+"workclass, occupation18",0.0288167256063805
+"workclass, race",0.0328358150062417
+"workclass, sex",0.0673429951298161
+"workclass, hours_per_week",0.0664383030907106
+"workclass, native_country",0.0426485769310299
+"education, marital_status",0.329607826572898
+"education, occupation18",0.128164167800705
+"education, race",0.127966855912023
+"education, sex",0.169772575666832
+"education, hours_per_week",0.152817187496258
+"education, native_country",0.137291294199271
+"marital_status, occupation18",0.211376088866867
+"marital_status, race",0.210601885482333
+"marital_status, sex",0.208995455674957
+"marital_status, hours_per_week",0.227505145483938
+"marital_status, native_country",0.225364156319241
+"occupation18, race",0.0116665501767105
+"occupation18, sex",0.0494747376539754
+"occupation18, hours_per_week",0.051904701074312
+"occupation18, native_country",0.0237087501175441
+"race, sex",0.0508393448461698
+"race, hours_per_week",0.053765511849548
+"race, native_country",0.0261703167771148
+"sex, hours_per_week",0.077868764657007
+"sex, native_country",0.0653173960903483
+"hours_per_week, native_country",0.066653889840718
+"age, workclass, education",0.188382633286539
+"age, workclass, marital_status",0.239611767160473
+"age, workclass, occupation18",0.0870532957101047
+"age, workclass, race",0.0891906924565241
+"age, workclass, sex",0.122209389641903
+"age, workclass, hours_per_week",0.125228934215656
+"age, workclass, native_country",0.100961887171312
+"age, education, marital_status",0.343401929889459
+"age, education, occupation18",0.186879912479587
+"age, education, race",0.184831311227504
+"age, education, sex",0.222219514847084
+"age, education, hours_per_week",0.210521255111131
+"age, education, native_country",0.19637786699067
+"age, marital_status, occupation18",0.230078008542763
+"age, marital_status, race",0.228219280601156
+"age, marital_status, sex",0.226654537333611
+"age, marital_status, hours_per_week",0.249430697639823
+"age, marital_status, native_country",0.243575136445808
+"age, occupation18, race",0.0785015689556264
+"age, occupation18, sex",0.112336485159343
+"age, occupation18, hours_per_week",0.118331243009729
+"age, occupation18, native_country",0.0926669829776051
+"age, race, sex",0.111847178239007
+"age, race, hours_per_week",0.118140715816833
+"age, race, native_country",0.0930375607043648
+"age, sex, hours_per_week",0.139594698574906
+"age, sex, native_country",0.12733205051442
+"age, hours_per_week, native_country",0.132029428124526
+"workclass, education, marital_status",0.336460731318436
+"workclass, education, occupation18",0.140274789344906
+"workclass, education, race",0.140515347389276
+"workclass, education, sex",0.178939466676481
+"workclass, education, hours_per_week",0.161633362308122
+"workclass, education, native_country",0.150151078484434
+"workclass, marital_status, occupation18",0.227427248283089
+"workclass, marital_status, race",0.227246540623875
+"workclass, marital_status, sex",0.225293017288692
+"workclass, marital_status, hours_per_week",0.242713548165965
+"workclass, marital_status, native_country",0.24039687102369
+"workclass, occupation18, race",0.0366786722524663
+"workclass, occupation18, sex",0.0711007936713381
+"workclass, occupation18, hours_per_week",0.07036751078982
+"workclass, occupation18, native_country",0.0469794982504277
+"workclass, race, sex",0.0732863655869341
+"workclass, race, hours_per_week",0.073212021991493
+"workclass, race, native_country",0.0497611846967477
+"workclass, sex, hours_per_week",0.0960646354999032
+"workclass, sex, native_country",0.0856573872932959
+"workclass, hours_per_week, native_country",0.0837448120286026
+"education, marital_status, occupation18",0.332617291939544
+"education, marital_status, race",0.331811035771202
+"education, marital_status, sex",0.330885062204056
+"education, marital_status, hours_per_week",0.339801004437086
+"education, marital_status, native_country",0.343796462267117
+"education, occupation18, race",0.132351409367809
+"education, occupation18, sex",0.174050667890809
+"education, occupation18, hours_per_week",0.157581510621971
+"education, occupation18, native_country",0.142295264162624
+"education, race, sex",0.17231756799034
+"education, race, hours_per_week",0.156314337177704
+"education, race, native_country",0.141248592294951
+"education, sex, hours_per_week",0.187003774523229
+"education, sex, native_country",0.183440180273555
+"education, hours_per_week, native_country",0.16640153041895
+"marital_status, occupation18, race",0.213903408398201
+"marital_status, occupation18, sex",0.212551706820275
+"marital_status, occupation18, hours_per_week",0.231438989953437
+"marital_status, occupation18, native_country",0.229214273536414
+"marital_status, race, sex",0.211562194502364
+"marital_status, race, hours_per_week",0.230098158517609
+"marital_status, race, native_country",0.22774057303107
+"marital_status, sex, hours_per_week",0.227613222422177
+"marital_status, sex, native_country",0.226293059362662
+"marital_status, hours_per_week, native_country",0.244336669820925
+"occupation18, race, sex",0.0545987836292547
+"occupation18, race, hours_per_week",0.0578684704438717
+"occupation18, race, native_country",0.0307032742208028
+"occupation18, sex, hours_per_week",0.0817766214675607
+"occupation18, sex, native_country",0.0697525803214046
+"occupation18, hours_per_week, native_country",0.0712982094101061
+"race, sex, hours_per_week",0.0824247314854714
+"race, sex, native_country",0.0700587801719051
+"race, hours_per_week, native_country",0.0719526975507185
+"sex, hours_per_week, native_country",0.0972512996455381
+"age, workclass, education, marital_status",0.349298974322802
+"age, workclass, education, occupation18",0.193006404976737
+"age, workclass, education, race",0.191320434335351
+"age, workclass, education, sex",0.227691576029983
+"age, workclass, education, hours_per_week",0.215650711499643
+"age, workclass, education, native_country",0.202971809337443
+"age, workclass, marital_status, occupation18",0.243494264856579
+"age, workclass, marital_status, race",0.242300119225987
+"age, workclass, marital_status, sex",0.240423403885647
+"age, workclass, marital_status, hours_per_week",0.262488016446565
+"age, workclass, marital_status, native_country",0.256094171942174
+"age, workclass, occupation18, race",0.0933015188519415
+"age, workclass, occupation18, sex",0.126556418434306
+"age, workclass, occupation18, hours_per_week",0.129675430814425
+"age, workclass, occupation18, native_country",0.105822178733019
+"age, workclass, race, sex",0.126749966304099
+"age, workclass, race, hours_per_week",0.130424342430624
+"age, workclass, race, native_country",0.106684295705651
+"age, workclass, sex, hours_per_week",0.152416743504306
+"age, workclass, sex, native_country",0.140485639624859
+"age, workclass, hours_per_week, native_country",0.142512389190177
+"age, education, marital_status, occupation18",0.346948278908795
+"age, education, marital_status, race",0.345165380441218
+"age, education, marital_status, sex",0.344207037460951
+"age, education, marital_status, hours_per_week",0.355676378831716
+"age, education, marital_status, native_country",0.357990529011894
+"age, education, occupation18, race",0.189690501070437
+"age, education, occupation18, sex",0.227200892156063
+"age, education, occupation18, hours_per_week",0.215810486859136
+"age, education, occupation18, native_country",0.20203393824804
+"age, education, race, sex",0.223873923386761
+"age, education, race, hours_per_week",0.21279489231807
+"age, education, race, native_country",0.199066107264209
+"age, education, sex, hours_per_week",0.239949211533495
+"age, education, sex, native_country",0.236616710429566
+"age, education, hours_per_week, native_country",0.224551617039181
+"age, marital_status, occupation18, race",0.232058502567658
+"age, marital_status, occupation18, sex",0.230717836791495
+"age, marital_status, occupation18, hours_per_week",0.253908008458011
+"age, marital_status, occupation18, native_country",0.248001507223898
+"age, marital_status, race, sex",0.22872185697341
+"age, marital_status, race, hours_per_week",0.251386853051493
+"age, marital_status, race, native_country",0.245497760218595
+"age, marital_status, sex, hours_per_week",0.249431194485676
+"age, marital_status, sex, native_country",0.244035619250521
+"age, marital_status, hours_per_week, native_country",0.265952488703635
+"age, occupation18, race, sex",0.116155759508924
+"age, occupation18, race, hours_per_week",0.122855422366326
+"age, occupation18, race, native_country",0.0980951398714267
+"age, occupation18, sex, hours_per_week",0.144282510829111
+"age, occupation18, sex, native_country",0.132502778501334
+"age, occupation18, hours_per_week, native_country",0.137501322209042
+"age, race, sex, hours_per_week",0.142955769938825
+"age, race, sex, native_country",0.130896784826625
+"age, race, hours_per_week, native_country",0.136075313385901
+"age, sex, hours_per_week, native_country",0.158162263631664
+"workclass, education, marital_status, occupation18",0.33925194439331
+"workclass, education, marital_status, race",0.338647024254592
+"workclass, education, marital_status, sex",0.337632212890698
+"workclass, education, marital_status, hours_per_week",0.346413068100499
+"workclass, education, marital_status, native_country",0.350664339972654
+"workclass, education, occupation18, race",0.144525320700578
+"workclass, education, occupation18, sex",0.182925427016363
+"workclass, education, occupation18, hours_per_week",0.165996295094771
+"workclass, education, occupation18, native_country",0.154696564385919
+"workclass, education, race, sex",0.181703598134531
+"workclass, education, race, hours_per_week",0.165489745433966
+"workclass, education, race, native_country",0.153936463883576
+"workclass, education, sex, hours_per_week",0.194503496055954
+"workclass, education, sex, native_country",0.192866439879287
+"workclass, education, hours_per_week, native_country",0.17536361694777
+"workclass, marital_status, occupation18, race",0.230442966446015
+"workclass, marital_status, occupation18, sex",0.228753011478224
+"workclass, marital_status, occupation18, hours_per_week",0.246450335354369
+"workclass, marital_status, occupation18, native_country",0.244137973857164
+"workclass, marital_status, race, sex",0.228332734089568
+"workclass, marital_status, race, hours_per_week",0.245742551185642
+"workclass, marital_status, race, native_country",0.243211700128671
+"workclass, marital_status, sex, hours_per_week",0.242918989788356
+"workclass, marital_status, sex, native_country",0.241459349846663
+"workclass, marital_status, hours_per_week, native_country",0.258316518401851
+"workclass, occupation18, race, sex",0.0768689314883213
+"workclass, occupation18, race, hours_per_week",0.0770939222951719
+"workclass, occupation18, race, native_country",0.0540105089554882
+"workclass, occupation18, sex, hours_per_week",0.0997905817251997
+"workclass, occupation18, sex, native_country",0.0898546449090118
+"workclass, occupation18, hours_per_week, native_country",0.0881096676869093
+"workclass, race, sex, hours_per_week",0.101484574466795
+"workclass, race, sex, native_country",0.0909448450666815
+"workclass, race, hours_per_week, native_country",0.0897941893942352
+"workclass, sex, hours_per_week, native_country",0.11387253930843
+"education, marital_status, occupation18, race",0.334595054234446
+"education, marital_status, occupation18, sex",0.333956670070776
+"education, marital_status, occupation18, hours_per_week",0.343296432930087
+"education, marital_status, occupation18, native_country",0.347343432643432
+"education, marital_status, race, sex",0.332978065644912
+"education, marital_status, race, hours_per_week",0.341984366533502
+"education, marital_status, race, native_country",0.345613380355656
+"education, marital_status, sex, hours_per_week",0.340196340892342
+"education, marital_status, sex, native_country",0.344842875490643
+"education, marital_status, hours_per_week, native_country",0.35343930035041
+"education, occupation18, race, sex",0.176454260518817
+"education, occupation18, race, hours_per_week",0.16100229385603
+"education, occupation18, race, native_country",0.14604737947576
+"education, occupation18, sex, hours_per_week",0.191461032267223
+"education, occupation18, sex, native_country",0.188385821816776
+"education, occupation18, hours_per_week, native_country",0.171575963503342
+"education, race, sex, hours_per_week",0.189295523202714
+"education, race, sex, native_country",0.185750258223785
+"education, race, hours_per_week, native_country",0.169624591727441
+"education, sex, hours_per_week, native_country",0.20053566162737
+"marital_status, occupation18, race, sex",0.214917274704118
+"marital_status, occupation18, race, hours_per_week",0.23379711032647
+"marital_status, occupation18, race, native_country",0.231374570308776
+"marital_status, occupation18, sex, hours_per_week",0.231552748634494
+"marital_status, occupation18, sex, native_country",0.230171263699019
+"marital_status, occupation18, hours_per_week, native_country",0.248605812288794
+"marital_status, race, sex, hours_per_week",0.230167413871058
+"marital_status, race, sex, native_country",0.228554981987253
+"marital_status, race, hours_per_week, native_country",0.246496448965933
+"marital_status, sex, hours_per_week, native_country",0.244405859635215
+"occupation18, race, sex, hours_per_week",0.0862270948385316
+"occupation18, race, sex, native_country",0.0743576233058812
+"occupation18, race, hours_per_week, native_country",0.0765722970993995
+"occupation18, sex, hours_per_week, native_country",0.10169099352632
+"race, sex, hours_per_week, native_country",0.101116981705046
+"age, workclass, education, marital_status, occupation18",0.352641370385039
+"age, workclass, education, marital_status, race",0.351005962455352
+"age, workclass, education, marital_status, sex",0.350094318752382
+"age, workclass, education, marital_status, hours_per_week",0.361889257188588
+"age, workclass, education, marital_status, native_country",0.36393344937722
+"age, workclass, education, occupation18, race",0.195847597362343
+"age, workclass, education, occupation18, sex",0.232422228659552
+"age, workclass, education, occupation18, hours_per_week",0.220559744265628
+"age, workclass, education, occupation18, native_country",0.208217622115343
+"age, workclass, education, race, sex",0.229453947037304
+"age, workclass, education, race, hours_per_week",0.21812791996622
+"age, workclass, education, race, native_country",0.205545932024804
+"age, workclass, education, sex, hours_per_week",0.245287457347715
+"age, workclass, education, sex, native_country",0.242158101523699
+"age, workclass, education, hours_per_week, native_country",0.229684635014498
+"age, workclass, marital_status, occupation18, race",0.245987977436031
+"age, workclass, marital_status, occupation18, sex",0.244362518404129
+"age, workclass, marital_status, occupation18, hours_per_week",0.266735498132985
+"age, workclass, marital_status, occupation18, native_country",0.260360097025318
+"age, workclass, marital_status, race, sex",0.242997142506362
+"age, workclass, marital_status, race, hours_per_week",0.264873925763342
+"age, workclass, marital_status, race, native_country",0.258491045285945
+"age, workclass, marital_status, sex, hours_per_week",0.262517668454897
+"age, workclass, marital_status, sex, native_country",0.256746658899915
+"age, workclass, marital_status, hours_per_week, native_country",0.277926492695679
+"age, workclass, occupation18, race, sex",0.130915526783834
+"age, workclass, occupation18, race, hours_per_week",0.134821260295253
+"age, workclass, occupation18, race, native_country",0.111458393390417
+"age, workclass, occupation18, sex, hours_per_week",0.156877052509275
+"age, workclass, occupation18, sex, native_country",0.145442176079531
+"age, workclass, occupation18, hours_per_week, native_country",0.147615618108119
+"age, workclass, race, sex, hours_per_week",0.156437699948371
+"age, workclass, race, sex, native_country",0.144601025306079
+"age, workclass, race, hours_per_week, native_country",0.147219606300864
+"age, workclass, sex, hours_per_week, native_country",0.169807469193357
+"age, education, marital_status, occupation18, race",0.348517749917434
+"age, education, marital_status, occupation18, sex",0.347823584958978
+"age, education, marital_status, occupation18, hours_per_week",0.359652538049517
+"age, education, marital_status, occupation18, native_country",0.362113622375114
+"age, education, marital_status, race, sex",0.345926546813847
+"age, education, marital_status, race, hours_per_week",0.357424415111664
+"age, education, marital_status, race, native_country",0.35946965706567
+"age, education, marital_status, sex, hours_per_week",0.355789342232885
+"age, education, marital_status, sex, native_country",0.358623067813346
+"age, education, marital_status, hours_per_week, native_country",0.36962453850211
+"age, education, occupation18, race, sex",0.228742743227534
+"age, education, occupation18, race, hours_per_week",0.218034232555981
+"age, education, occupation18, race, native_country",0.204554809065276
+"age, education, occupation18, sex, hours_per_week",0.245130883793546
+"age, education, occupation18, sex, native_country",0.242400187646547
+"age, education, occupation18, hours_per_week, native_country",0.230431178627919
+"age, education, race, sex, hours_per_week",0.241402581277818
+"age, education, race, sex, native_country",0.238156126032773
+"age, education, race, hours_per_week, native_country",0.226636153181324
+"age, education, sex, hours_per_week, native_country",0.253843591130827
+"age, marital_status, occupation18, race, sex",0.232609637887356
+"age, marital_status, occupation18, race, hours_per_week",0.255652153041452
+"age, marital_status, occupation18, race, native_country",0.24973266145226
+"age, marital_status, occupation18, sex, hours_per_week",0.253908039372423
+"age, marital_status, occupation18, sex, native_country",0.248490761375896
+"age, marital_status, occupation18, hours_per_week, native_country",0.270845666214564
+"age, marital_status, race, sex, hours_per_week",0.251391121894308
+"age, marital_status, race, sex, native_country",0.245904026971279
+"age, marital_status, race, hours_per_week, native_country",0.267616074868068
+"age, marital_status, sex, hours_per_week, native_country",0.265958547788894
+"age, occupation18, race, sex, hours_per_week",0.14754407197256
+"age, occupation18, race, sex, native_country",0.135954494283595
+"age, occupation18, race, hours_per_week, native_country",0.141545342389348
+"age, occupation18, sex, hours_per_week, native_country",0.16353294437095
+"age, race, sex, hours_per_week, native_country",0.161007435569007
+"workclass, education, marital_status, occupation18, race",0.341226207163006
+"workclass, education, marital_status, occupation18, sex",0.340484690960669
+"workclass, education, marital_status, occupation18, hours_per_week",0.349636843901832
+"workclass, education, marital_status, occupation18, native_country",0.353898925914653
+"workclass, education, marital_status, race, sex",0.339700929896965
+"workclass, education, marital_status, race, hours_per_week",0.348583756094859
+"workclass, education, marital_status, race, native_country",0.352340692013146
+"workclass, education, marital_status, sex, hours_per_week",0.34681171704349
+"workclass, education, marital_status, sex, native_country",0.351596685886884
+"workclass, education, marital_status, hours_per_week, native_country",0.360008949277194
+"workclass, education, occupation18, race, sex",0.185544238714765
+"workclass, education, occupation18, race, hours_per_week",0.16976793172947
+"workclass, education, occupation18, race, native_country",0.158267396190709
+"workclass, education, occupation18, sex, hours_per_week",0.198611039176831
+"workclass, education, occupation18, sex, native_country",0.197396754498394
+"workclass, education, occupation18, hours_per_week, native_country",0.180051546522673
+"workclass, education, race, sex, hours_per_week",0.197110099019283
+"workclass, education, race, sex, native_country",0.195210344828594
+"workclass, education, race, hours_per_week, native_country",0.178773087740791
+"workclass, education, sex, hours_per_week, native_country",0.20812597201253
+"workclass, marital_status, occupation18, race, sex",0.231574939090005
+"workclass, marital_status, occupation18, race, hours_per_week",0.249216860997143
+"workclass, marital_status, occupation18, race, native_country",0.246712336834317
+"workclass, marital_status, occupation18, sex, hours_per_week",0.246664096630507
+"workclass, marital_status, occupation18, sex, native_country",0.245217675684861
+"workclass, marital_status, occupation18, hours_per_week, native_country",0.262369398549148
+"workclass, marital_status, race, sex, hours_per_week",0.245885498480566
+"workclass, marital_status, race, sex, native_country",0.244152725136754
+"workclass, marital_status, race, hours_per_week, native_country",0.260972702521496
+"workclass, marital_status, sex, hours_per_week, native_country",0.258461888471654
+"workclass, occupation18, race, sex, hours_per_week",0.105059645809012
+"workclass, occupation18, race, sex, native_country",0.0949543646442103
+"workclass, occupation18, race, hours_per_week, native_country",0.0940878222599
+"workclass, occupation18, sex, hours_per_week, native_country",0.118034136882438
+"workclass, race, sex, hours_per_week, native_country",0.118603959263425
+"education, marital_status, occupation18, race, sex",0.335833095418862
+"education, marital_status, occupation18, race, hours_per_week",0.345223289292382
+"education, marital_status, occupation18, race, native_country",0.348881138433009
+"education, marital_status, occupation18, sex, hours_per_week",0.343682972944393
+"education, marital_status, occupation18, sex, native_country",0.348430767678476
+"education, marital_status, occupation18, hours_per_week, native_country",0.357379836244145
+"education, marital_status, race, sex, hours_per_week",0.342319951592176
+"education, marital_status, race, sex, native_country",0.346584841220446
+"education, marital_status, race, hours_per_week, native_country",0.355280480461478
+"education, marital_status, sex, hours_per_week, native_country",0.353728801080092
+"education, occupation18, race, sex, hours_per_week",0.193625095721738
+"education, occupation18, race, sex, native_country",0.190489050340735
+"education, occupation18, race, hours_per_week, native_country",0.17462050473071
+"education, occupation18, sex, hours_per_week, native_country",0.205578113369392
+"education, race, sex, hours_per_week, native_country",0.202584091231564
+"marital_status, occupation18, race, sex, hours_per_week",0.233871086089385
+"marital_status, occupation18, race, sex, native_country",0.232218061609231
+"marital_status, occupation18, race, hours_per_week, native_country",0.250509770066228
+"marital_status, occupation18, sex, hours_per_week, native_country",0.248672516633373
+"marital_status, race, sex, hours_per_week, native_country",0.24653911675339
+"occupation18, race, sex, hours_per_week, native_country",0.105439130424517
+"age, workclass, education, marital_status, occupation18, race",0.354155851444711
+"age, workclass, education, marital_status, occupation18, sex",0.353507050081049
+"age, workclass, education, marital_status, occupation18, hours_per_week",0.365616986823824
+"age, workclass, education, marital_status, occupation18, native_country",0.367750425678963
+"age, workclass, education, marital_status, race, sex",0.351746586238008
+"age, workclass, education, marital_status, race, hours_per_week",0.363541339908477
+"age, workclass, education, marital_status, race, native_country",0.365245948216206
+"age, workclass, education, marital_status, sex, hours_per_week",0.362033077043291
+"age, workclass, education, marital_status, sex, native_country",0.364538624383463
+"age, workclass, education, marital_status, hours_per_week, native_country",0.375804275009559
+"age, workclass, education, occupation18, race, sex",0.234066109930239
+"age, workclass, education, occupation18, race, hours_per_week",0.222978285006939
+"age, workclass, education, occupation18, race, native_country",0.210614974158174
+"age, workclass, education, occupation18, sex, hours_per_week",0.250140195456527
+"age, workclass, education, occupation18, sex, native_country",0.247579960962598
+"age, workclass, education, occupation18, hours_per_week, native_country",0.235113517160006
+"age, workclass, education, race, sex, hours_per_week",0.246881574001138
+"age, workclass, education, race, sex, native_country",0.243696039221461
+"age, workclass, education, race, hours_per_week, native_country",0.231907124153296
+"age, workclass, education, sex, hours_per_week, native_country",0.259133572056201
+"age, workclass, marital_status, occupation18, race, sex",0.246732650669024
+"age, workclass, marital_status, occupation18, race, hours_per_week",0.268883181007112
+"age, workclass, marital_status, occupation18, race, native_country",0.262525675650958
+"age, workclass, marital_status, occupation18, sex, hours_per_week",0.266771666124332
+"age, workclass, marital_status, occupation18, sex, native_country",0.261035837195822
+"age, workclass, marital_status, occupation18, hours_per_week, native_country",0.282568143372937
+"age, workclass, marital_status, race, sex, hours_per_week",0.264888015059233
+"age, workclass, marital_status, race, sex, native_country",0.259078056749746
+"age, workclass, marital_status, race, hours_per_week, native_country",0.280078450006342
+"age, workclass, marital_status, sex, hours_per_week, native_country",0.277937941579963
+"age, workclass, occupation18, race, sex, hours_per_week",0.160761182335921
+"age, workclass, occupation18, race, sex, native_country",0.149374877300201
+"age, workclass, occupation18, race, hours_per_week, native_country",0.152266503908139
+"age, workclass, occupation18, sex, hours_per_week, native_country",0.174857705170372
+"age, workclass, race, sex, hours_per_week, native_country",0.173382501796514
+"age, education, marital_status, occupation18, race, sex",0.349356584383526
+"age, education, marital_status, occupation18, race, hours_per_week",0.361184243301458
+"age, education, marital_status, occupation18, race, native_country",0.363370746514361
+"age, education, marital_status, occupation18, sex, hours_per_week",0.359769817667533
+"age, education, marital_status, occupation18, sex, native_country",0.362793587557626
+"age, education, marital_status, occupation18, hours_per_week, native_country",0.374118989419921
+"age, education, marital_status, race, sex, hours_per_week",0.357521957838188
+"age, education, marital_status, race, sex, native_country",0.360079861649307
+"age, education, marital_status, race, hours_per_week, native_country",0.371140620397639
+"age, education, marital_status, sex, hours_per_week, native_country",0.369687798081691
+"age, education, occupation18, race, sex, hours_per_week",0.246489356639193
+"age, education, occupation18, race, sex, native_country",0.243796421383523
+"age, education, occupation18, race, hours_per_week, native_country",0.232390187682611
+"age, education, occupation18, sex, hours_per_week, native_country",0.259730148176755
+"age, education, race, sex, hours_per_week, native_country",0.255144221224883
+"age, marital_status, occupation18, race, sex, hours_per_week",0.255654620014993
+"age, marital_status, occupation18, race, sex, native_country",0.25016732281168
+"age, marital_status, occupation18, race, hours_per_week, native_country",0.272271732655754
+"age, marital_status, occupation18, sex, hours_per_week, native_country",0.270851842122535
+"age, marital_status, race, sex, hours_per_week, native_country",0.267628889972282
+"age, occupation18, race, sex, hours_per_week, native_country",0.166292292949313
+"workclass, education, marital_status, occupation18, race, sex",0.342345850286326
+"workclass, education, marital_status, occupation18, race, hours_per_week",0.351558277286406
+"workclass, education, marital_status, occupation18, race, native_country",0.355320459929591
+"workclass, education, marital_status, occupation18, sex, hours_per_week",0.350031758088282
+"workclass, education, marital_status, occupation18, sex, native_country",0.354866051792479
+"workclass, education, marital_status, occupation18, hours_per_week, native_country",0.363580684936475
+"workclass, education, marital_status, race, sex, hours_per_week",0.348913387767538
+"workclass, education, marital_status, race, sex, native_country",0.353196532869269
+"workclass, education, marital_status, race, hours_per_week, native_country",0.36173350648215
+"workclass, education, marital_status, sex, hours_per_week, native_country",0.36028871523564
+"workclass, education, occupation18, race, sex, hours_per_week",0.201087868384616
+"workclass, education, occupation18, race, sex, native_country",0.199532584039076
+"workclass, education, occupation18, race, hours_per_week, native_country",0.183272197839816
+"workclass, education, occupation18, sex, hours_per_week, native_country",0.212707194979294
+"workclass, education, race, sex, hours_per_week, native_country",0.210360892463339
+"workclass, marital_status, occupation18, race, sex, hours_per_week",0.249366780750094
+"workclass, marital_status, occupation18, race, sex, native_country",0.247669752643706
+"workclass, marital_status, occupation18, race, hours_per_week, native_country",0.264741081322599
+"workclass, marital_status, occupation18, sex, hours_per_week, native_country",0.262510884255463
+"workclass, marital_status, race, sex, hours_per_week, native_country",0.261075997345954
+"workclass, occupation18, race, sex, hours_per_week, native_country",0.12259095084386
+"education, marital_status, occupation18, race, sex, hours_per_week",0.345557322427339
+"education, marital_status, occupation18, race, sex, native_country",0.34990641948438
+"education, marital_status, occupation18, race, hours_per_week, native_country",0.358913991761388
+"education, marital_status, occupation18, sex, hours_per_week, native_country",0.357657379296115
+"education, marital_status, race, sex, hours_per_week, native_country",0.355528896067042
+"education, occupation18, race, sex, hours_per_week, native_country",0.207423087892504
+"marital_status, occupation18, race, sex, hours_per_week, native_country",0.250551476805365
+"age, workclass, education, marital_status, occupation18, race, sex",0.354971521782677
+"age, workclass, education, marital_status, occupation18, race, hours_per_week",0.367050704947689
+"age, workclass, education, marital_status, occupation18, race, native_country",0.368855370047631
+"age, workclass, education, marital_status, occupation18, sex, hours_per_week",0.365767627331786
+"age, workclass, education, marital_status, occupation18, sex, native_country",0.368397990267235
+"age, workclass, education, marital_status, occupation18, hours_per_week, native_country",0.379949547075697
+"age, workclass, education, marital_status, race, sex, hours_per_week",0.363663064497598
+"age, workclass, education, marital_status, race, sex, native_country",0.365822746152511
+"age, workclass, education, marital_status, race, hours_per_week, native_country",0.377144155443919
+"age, workclass, education, marital_status, sex, hours_per_week, native_country",0.375882946791734
+"age, workclass, education, occupation18, race, sex, hours_per_week",0.251635730170367
+"age, workclass, education, occupation18, race, sex, native_country",0.24896183686095
+"age, workclass, education, occupation18, race, hours_per_week, native_country",0.237192030989239
+"age, workclass, education, occupation18, sex, hours_per_week, native_country",0.264595211975074
+"age, workclass, education, race, sex, hours_per_week, native_country",0.2605380387784
+"age, workclass, marital_status, occupation18, race, sex, hours_per_week",0.268901409315931
+"age, workclass, marital_status, occupation18, race, sex, native_country",0.26313350685418
+"age, workclass, marital_status, occupation18, race, hours_per_week, native_country",0.284446601145546
+"age, workclass, marital_status, occupation18, sex, hours_per_week, native_country",0.28257934585595
+"age, workclass, marital_status, race, sex, hours_per_week, native_country",0.280083116814926
+"age, workclass, occupation18, race, sex, hours_per_week, native_country",0.17827846087308
+"age, education, marital_status, occupation18, race, sex, hours_per_week",0.361288815917318
+"age, education, marital_status, occupation18, race, sex, native_country",0.364037667892815
+"age, education, marital_status, occupation18, race, hours_per_week, native_country",0.375390999155271
+"age, education, marital_status, occupation18, sex, hours_per_week, native_country",0.374181284194195
+"age, education, marital_status, race, sex, hours_per_week, native_country",0.371196018918558
+"age, education, occupation18, race, sex, hours_per_week, native_country",0.260896442289889
+"age, marital_status, occupation18, race, sex, hours_per_week, native_country",0.272284292794082
+"workclass, education, marital_status, occupation18, race, sex, hours_per_week",0.351889961381982
+"workclass, education, marital_status, occupation18, race, sex, native_country",0.356220885930654
+"workclass, education, marital_status, occupation18, race, hours_per_week, native_country",0.36502102962351
+"workclass, education, marital_status, occupation18, sex, hours_per_week, native_country",0.363849428875129
+"workclass, education, marital_status, race, sex, hours_per_week, native_country",0.361967194754584
+"workclass, education, occupation18, race, sex, hours_per_week, native_country",0.214732612193174
+"workclass, marital_status, occupation18, race, sex, hours_per_week, native_country",0.26484208770552
+"education, marital_status, occupation18, race, sex, hours_per_week, native_country",0.359158290668775
+"age, workclass, education, marital_status, occupation18, race, sex, hours_per_week",0.367181590808301
+"age, workclass, education, marital_status, occupation18, race, sex, native_country",0.36948174731157
+"age, workclass, education, marital_status, occupation18, race, hours_per_week, native_country",0.381056384453756
+"age, workclass, education, marital_status, occupation18, sex, hours_per_week, native_country",0.380026583886867
+"age, workclass, education, marital_status, race, sex, hours_per_week, native_country",0.37721097171469
+"age, workclass, education, occupation18, race, sex, hours_per_week, native_country",0.265846163727019
+"age, workclass, marital_status, occupation18, race, sex, hours_per_week, native_country",0.284451156130422
+"age, education, marital_status, occupation18, race, sex, hours_per_week, native_country",0.375448243556034
+"workclass, education, marital_status, occupation18, race, sex, hours_per_week, native_country",0.365250440121551
+"age, workclass, education, marital_status, occupation18, race, sex, hours_per_week, native_country",0.381124272999462
